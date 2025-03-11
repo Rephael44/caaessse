@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Código referente a atividade do nível básico da matéria Super Trunfo em C: fundamentos e técnicas avançadas
 
 int main() {
     char estado1[30], estado2[30];  // Nome dos estados
