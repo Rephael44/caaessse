@@ -12,7 +12,7 @@ int main() {
     // Entrada de dados para a carta 1
     printf("Insira os dados da Carta 1:\n");  
     printf("Estado (A-H): ");
-    scanf(" %s", &estado1);  // %s para que seja possível informar o estado por extenso.
+    scanf("%c", &estado1);  // %s para que fosse possível informar o nome do estado por extenso faria mais sentido no momento.. mas como pediram c, fica o c.
     printf("Código da Carta (ex: A01, B02): ");
     scanf("%s", codigo1);
     printf("Nome da Cidade: ");
